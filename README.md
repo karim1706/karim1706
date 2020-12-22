@@ -4,7 +4,7 @@ Hello World !
 
 <p> "Choisis la pilule bleue et tout s'arrête, après tu pourras faire de beaux rêves et penser ce que tu veux. Choisis la pilule rouge : tu restes au Pays des Merveilles et on descend avec le lapin blanc au fond du gouffre" Matrix </p>
   
-Vous avez choisi la pillule rouge :pill: descendons donc et voyons ce que recèle ma matrice  :arrow_down:
+Vous avez choisi la pillule rouge :pill: descendons donc et voyons ce que recèle la matrice  :arrow_down:
 
 <h2> À propos de moi </h2>
 

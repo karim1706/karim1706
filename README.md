@@ -1,6 +1,6 @@
-# Karim-ABID
+[My image](karim1706.github.com/karim1706/github-img.png)
 
-Hello World !
+Hello World !  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p> "Choisis la pilule bleue et tout s'arrête, après tu pourras faire de beaux rêves et penser ce que tu veux. Choisis la pilule rouge : tu restes au Pays des Merveilles et on descend avec le lapin blanc au fond du gouffre" Matrix </p>
   

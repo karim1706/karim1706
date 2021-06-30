@@ -35,4 +35,5 @@ Je décide donc de faire ma reconversion en passant et en obtenant le titre de D
   <li> TypeScript </li>
   <li> Angular 2 </li> 
   <li> Symfony </li>
+  <li> Docker </li>
 </ul>

@@ -2,10 +2,6 @@
 
 Hello World !  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p> "Choisis la pilule bleue et tout s'arrête, après tu pourras faire de beaux rêves et penser ce que tu veux. Choisis la pilule rouge : tu restes au Pays des Merveilles et on descend avec le lapin blanc au fond du gouffre" Matrix </p>
-  
-Vous avez choisi la pillule rouge :pill: descendons donc et voyons ce que recèle la matrice  :arrow_down:
-
 <h2> À propos de moi </h2>
 
 Après avoir travaillé dans les domaines de la finance et de l'administratif, ma passion pour les nouvelles technologies prend le dessus. J'entends parler de nouveaux métiers émergents comme Copywritter ou Content Manager, mais mon choix se porte sur celui de Développeur Web ! 
@@ -18,15 +14,25 @@ Je décide donc de faire ma reconversion en passant et en obtenant le titre de D
   <li> React JS </li> 
   <li>Javascript - ES6</li>
   <li>PHP 7</li>
-  <li>Symfony</li>
   <li>MySql</li>
+  <li>Firebase</li>
+  <li>API REST</li>
+  <li> Bootstrap 4 </li>
+  <li> HTML 5 / CSS 3 </li>
 </ul>
 
 <h2> Mes Soft Skills </h2>
 
 <ul>
- <li>Assidu</li>
+ <li>Rigoureux</li> 
   <li>Organisé</li>
   <li>Capacité d'écoute des besoins</li>
-  <li>Proactif</li>
+</ul>
+
+<h2> Je m'intéresse aussi à ...  </h2>
+
+<ul>
+  <li> TypeScript </li>
+  <li> Angular 2 </li> 
+  <li> Symfony </li>
 </ul>

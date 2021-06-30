@@ -1,4 +1,4 @@
-![github-img](https://user-images.githubusercontent.com/47336595/123487137-a967c080-d60d-11eb-8e1c-57fe48cfff96.png)
+![git_img (2)](https://user-images.githubusercontent.com/47336595/124002939-a63a4f00-d9d6-11eb-963e-4d148d6c683d.png)
 
 Hello World !  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 

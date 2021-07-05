@@ -11,14 +11,19 @@ Je décide donc de faire ma reconversion en passant et en obtenant le titre de D
 <h2> Mes Hard Skills  </h2>
 
 <ul>
-  <li> React JS </li> 
-  <li>Javascript - ES6</li>
-  <li>PHP 7</li>
-  <li>MySql</li>
-  <li>Firebase</li>
-  <li>API REST</li>
-  <li> Bootstrap 4 </li>
-  <li> HTML 5 / CSS 3 </li>
+  <h4>Front-End :</h4>
+    <li> React JS </li> 
+    <li>Javascript - ES6</li>
+    <li> Bootstrap 4 </li>
+    <li> HTML 5 / CSS 3 </li>
+  ------------------
+  <h4>Back-End :</h4>
+    <li>PHP 7</li>
+    <li>API REST</li>
+  ------------------
+  <h4>Base de données :</h4>
+    <li>MySql</li>
+    <li>Firebase</li> 
 </ul>
 
 <h2> Mes Soft Skills </h2>

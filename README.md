@@ -2,6 +2,8 @@
 
 Hello World !  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+   ![images](https://user-images.githubusercontent.com/47336595/126908290-182bdbd4-9035-474f-84f0-3ecdac1f95a1.png) 
+
 <h2> À propos de moi </h2>
 
 Après avoir travaillé dans les domaines de la finance et de l'administratif, ma passion pour les nouvelles technologies prend le dessus. J'entends parler de nouveaux métiers émergents comme Copywritter ou Content Manager, mais mon choix se porte sur celui de Développeur Web ! 

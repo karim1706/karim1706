@@ -11,7 +11,6 @@ Je décide donc de faire ma reconversion en passant et en obtenant le titre de D
 
 ![images](https://user-images.githubusercontent.com/47336595/126908290-182bdbd4-9035-474f-84f0-3ecdac1f95a1.png)  :arrow_right: :arrow_right: :arrow_right: :arrow_right: :arrow_right: :arrow_right: :arrow_right: :arrow_right: :arrow_right: :arrow_right: :arrow_right: :arrow_right:     ![dev](https://user-images.githubusercontent.com/47336595/161387724-2055de5e-fab9-4a2a-81a5-589f47e0507f.jpeg)
 
-![react](https://user-images.githubusercontent.com/47336595/161388693-08f536e6-6362-4db5-b9fa-d084a483ac64.png)
 <h2> Mes Hard Skills  </h2>
 
 <ul>

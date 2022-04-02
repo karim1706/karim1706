@@ -9,7 +9,7 @@ Après avoir travaillé dans les domaines de la finance et de l'administratif, m
 
 Je décide donc de faire ma reconversion en passant et en obtenant le titre de Dévelloppeur Web et Web Mobile dans la Chambre de Commerce et d'Industrie de ma ville. 
 
-![images](https://user-images.githubusercontent.com/47336595/126908290-182bdbd4-9035-474f-84f0-3ecdac1f95a1.png) => ![images](/home/karim/Images/dev.jpeg)
+![images](https://user-images.githubusercontent.com/47336595/126908290-182bdbd4-9035-474f-84f0-3ecdac1f95a1.png) => <img src="/home/karim/Images/dev.jpeg" alt="Alt text" title="Optional title">
 
 
 <h2> Mes Hard Skills  </h2>
